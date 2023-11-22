@@ -29,3 +29,9 @@ Should the main UI just be a calendar? Or maybe just render a calendar which wil
 and on click brings up info? 
 
 Maybe start with just rendering a list?
+
+3. Setting Up MongoDB
+This step is the same as in the previous explanation. Choose between local MongoDB or MongoDB Atlas, install Mongoose, and set up a connection utility.
+
+4. Basic CRUD Operations
+No changes here. Implement CRUD operations for your workout logs by creating a schema, setting up API routes in Next.js, and handling data operations.
